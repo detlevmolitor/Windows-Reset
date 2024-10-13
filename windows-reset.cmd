@@ -2,7 +2,7 @@ Rem/||(
 /* -----------------------------------------------
 /* Author : Detlev Molitor  - molitor-eu.de
 /* MIT license: http://opensource.org/licenses/MIT
-/* GitHub : https://github.com/detlevmolitor/Windows-Reset
+/* GitHub : https://github.com/detlevmolitor/windows-reset
 /* v1.0.0
 /* ----------------------------------------------- */
 )
